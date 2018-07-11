@@ -1,0 +1,12 @@
+C:\Users\Deverl\Documents\GitHub\cs5700f17-shared\examples\Forest Drawing - Flyweight and Command Patterns\Forests - Version 5 - More Drawing Tools and Adapter\AppLayer\bin\Debug\AppLayer.dll
+C:\Users\Deverl\Documents\GitHub\cs5700f17-shared\examples\Forest Drawing - Flyweight and Command Patterns\Forests - Version 5 - More Drawing Tools and Adapter\AppLayer\bin\Debug\AppLayer.pdb
+C:\Users\Deverl\Documents\GitHub\cs5700f17-shared\examples\Forest Drawing - Flyweight and Command Patterns\Forests - Version 5 - More Drawing Tools and Adapter\AppLayer\obj\Debug\AppLayer.csprojResolveAssemblyReference.cache
+C:\Users\Deverl\Documents\GitHub\cs5700f17-shared\examples\Forest Drawing - Flyweight and Command Patterns\Forests - Version 5 - More Drawing Tools and Adapter\AppLayer\obj\Debug\AppLayer.csproj.CoreCompileInputs.cache
+C:\Users\Deverl\Documents\GitHub\cs5700f17-shared\examples\Forest Drawing - Flyweight and Command Patterns\Forests - Version 5 - More Drawing Tools and Adapter\AppLayer\obj\Debug\AppLayer.dll
+C:\Users\Deverl\Documents\GitHub\cs5700f17-shared\examples\Forest Drawing - Flyweight and Command Patterns\Forests - Version 5 - More Drawing Tools and Adapter\AppLayer\obj\Debug\AppLayer.pdb
+C:\Users\Deverl\Desktop\Papers\USU Classwork\Fall 2017 Classes\CS 5700\Assignment3\UMLDesign\AppLayer\bin\Debug\AppLayer.dll
+C:\Users\Deverl\Desktop\Papers\USU Classwork\Fall 2017 Classes\CS 5700\Assignment3\UMLDesign\AppLayer\bin\Debug\AppLayer.pdb
+C:\Users\Deverl\Desktop\Papers\USU Classwork\Fall 2017 Classes\CS 5700\Assignment3\UMLDesign\AppLayer\obj\Debug\AppLayer.csprojResolveAssemblyReference.cache
+C:\Users\Deverl\Desktop\Papers\USU Classwork\Fall 2017 Classes\CS 5700\Assignment3\UMLDesign\AppLayer\obj\Debug\AppLayer.csproj.CoreCompileInputs.cache
+C:\Users\Deverl\Desktop\Papers\USU Classwork\Fall 2017 Classes\CS 5700\Assignment3\UMLDesign\AppLayer\obj\Debug\AppLayer.dll
+C:\Users\Deverl\Desktop\Papers\USU Classwork\Fall 2017 Classes\CS 5700\Assignment3\UMLDesign\AppLayer\obj\Debug\AppLayer.pdb
